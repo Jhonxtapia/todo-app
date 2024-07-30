@@ -57,7 +57,7 @@ Esta es una aplicación de tareas sencilla desarrollada con React. Permite a los
 6. Haz clic en "Borrar Completadas" para eliminar todas las tareas completadas de la lista.
 
 **Contribuciones:**
-Siéntete libre de bifurcar el repositorio y enviar pull requests. ¡Cualquier contribución es bienvenida!
+Jhoan, sus compañeros, lo que aprendimos en clase y nuestro maestro Lizandro.
 
 **Licencia:**
 Este proyecto está licenciado bajo la Licencia de Cristo nuestro salvador, el que nos permitira pasar nuestros obstaculos y por ende, pasar la materia.
